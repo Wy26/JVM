@@ -1,0 +1,5 @@
+(ADD,2,2,c);
+(DIV,c,2,a);
+(SUB,a,2,b);
+(ADD,b,2,d);
+(MUL,d,2,e);
